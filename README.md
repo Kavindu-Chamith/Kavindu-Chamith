@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindu-chamith&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu-chamith" /> </p>
 
-- 👨‍💻 All of my projects are available at (http://kavinduchamith.infinitysusl.com/)
+- 👨‍💻 All of my projects are available at http://kavinduchamith.infinitysusl.com
 
 - 💬 Ask me about **HTML, CSS and Java Script**
 
