@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="kavindu-chamith" /> </p>
 <h1 align="center">Hi 👋, I'm Kavindu Chamith</h1>
-<h3 align="center">Web Developer | Graphic Designer</h3>
+<h3 align="center">Software Developer | Graphic Designer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindu-chamith&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu-chamith" /> </p>
 
