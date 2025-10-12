@@ -4,9 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindu-chamith&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu-chamith" /> </p>
 
-- 👨‍💻 All of my projects are available at https://kavindu-chamith.github.io/My-Portfolio-Web
-
-- 💬 Ask me about **NodeJs**
+- 👨‍💻 All of my projects are available at http://kavindu.peakprofit.pw
 
 - 📫 How to reach me **info.kavinduchamith@gmail.com**
 
