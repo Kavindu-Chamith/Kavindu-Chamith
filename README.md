@@ -90,15 +90,6 @@ email: info.kavinduchamith@gmail.com
 
 <div align="center">
 
-<a href="https://github.com/Kavindu-Chamith">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kavindu-Chamith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu-Chamith&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
-</a>
-
-</div>
-
-<div align="center">
-
 ### Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kavindu-Chamith&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://git.io/streak-stats)
