@@ -73,7 +73,12 @@ email: info.kavinduchamith@gmail.com
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,jquery&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs&perline=8&theme=dark" />
+</p>
+
+### Data Engineering & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,kafka,postgres,mongodb,redis&perline=8&theme=dark" />
 </p>
 
 ### Tools & Platforms
