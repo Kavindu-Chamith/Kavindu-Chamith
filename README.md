@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:1f6feb&height=200&section=header&text=Kavindu%20Chamith&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%7C%20Software%20Engineering&descAlignY=55&descSize=20&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:1f6feb&height=200&section=header&text=Kavindu%20Chamith&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=20&descColor=8b949e" />
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Kavindu+Chamith;Data+Engineering+%7C+Software+Engineering;Building+Creative+Digital+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Kavindu+Chamith;Data+Engineer+%7C+Software+Developer;Building+Creative+Digital+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </a>
 
 <br/>
