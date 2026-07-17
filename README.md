@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:1f6feb&height=200&section=header&text=Kavindu%20Chamith&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Graphic%20Designer&descAlignY=55&descSize=20&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:1f6feb&height=200&section=header&text=Kavindu%20Chamith&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%7C%20Software%20Engineering&descAlignY=55&descSize=20&descColor=8b949e" />
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Kavindu+Chamith;Software+Developer+%7C+Graphic+Designer;Building+Creative+Digital+Experiences;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Kavindu+Chamith;Data+Engineering+%7C+Software+Engineering;Building+Creative+Digital+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
+<!-- Profile Views & Followers
 <img src="https://komarev.com/ghpvc/?username=kavindu-chamith&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/Kavindu-Chamith?tab=followers">
   <img src="https://img.shields.io/github/followers/Kavindu-Chamith?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Followers" />
-</a>
+</a> -->
 
 </div>
 
@@ -29,15 +29,14 @@ located_in: Sri Lanka
 current_job: Software Developer & Graphic Designer
 
 fields_of_interests:
+  - Data Engineering
+  - Machine Learning
   - Full Stack Web Development
-  - UI/UX Design
   - Graphic Design
-  - Mobile App Development
 
 currently_learning:
-  - React.js
-  - Node.js
-  - Cloud Technologies
+  - AI/ML
+  - Next.js
 
 hobbies:
   - Coding
