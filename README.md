@@ -1,18 +1,163 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="kavindu-chamith" /> </p>
-<h1 align="center">Hi 👋, I'm Kavindu Chamith</h1>
-<h3 align="center">Software Developer | Graphic Designer</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindu-chamith&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu-chamith" /> </p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:1f6feb&height=200&section=header&text=Kavindu%20Chamith&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Graphic%20Designer&descAlignY=55&descSize=20&descColor=8b949e" />
 
-- 👨‍💻 All of my projects are available at https://kavindu-chamith.github.io/My-Portfolio-Web
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Kavindu+Chamith;Software+Developer+%7C+Graphic+Designer;Building+Creative+Digital+Experiences;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 📫 How to reach me **info.kavinduchamith@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kavindu-chamit03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavindu-chamit03" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kavinduchamith03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kavinduchamith03" height="30" width="40" /></a>
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=kavindu-chamith&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/Kavindu-Chamith?tab=followers">
+  <img src="https://img.shields.io/github/followers/Kavindu-Chamith?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Followers" />
+</a>
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+```yaml
+name: Kavindu Chamith
+located_in: Sri Lanka
+current_job: Software Developer & Graphic Designer
+
+fields_of_interests:
+  - Full Stack Web Development
+  - UI/UX Design
+  - Graphic Design
+  - Mobile App Development
+
+currently_learning:
+  - React.js
+  - Node.js
+  - Cloud Technologies
+
+hobbies:
+  - Coding
+  - Designing
+  - Learning New Tech
+
+email: info.kavinduchamith@gmail.com
+```
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-chamit03)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kavindu_chamith_?igsh=MTd5c3k3dTlwOWpmbw%3D%3D&utm_source=qr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kavindu-chamith.github.io/My-Portfolio-Web)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavindu-Chamith)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.kavinduchamith@gmail.com)
+
+</div>
+
+---
+
+## 🚀 Languages & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,c&perline=8&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🎨 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,jquery&perline=8&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai,mysql,mongodb&perline=8&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Kavindu-Chamith">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kavindu-Chamith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu-Chamith&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### 🔥 Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kavindu-Chamith&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kavindu-Chamith&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Kavindu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavindu-Chamith&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kavindu-Chamith/Kavindu-Chamith/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kavindu-Chamith/Kavindu-Chamith/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kavindu-Chamith/Kavindu-Chamith/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Kavindu-Chamith&repo=My-Portfolio-Web&theme=tokyonight&border_radius=15&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/Kavindu-Chamith/My-Portfolio-Web)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:58a6ff,100:0d1117&height=120&section=footer" />
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+
+**Made with ❤️ by [Kavindu Chamith](https://github.com/Kavindu-Chamith)**
+
+</div>
