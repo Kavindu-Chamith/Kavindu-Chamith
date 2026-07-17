@@ -21,7 +21,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 ```yaml
 name: Kavindu Chamith
@@ -49,7 +49,7 @@ email: info.kavinduchamith@gmail.com
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -63,21 +63,21 @@ email: info.kavinduchamith@gmail.com
 
 ---
 
-## 🚀 Languages & Tools
+## Languages & Tools
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,c&perline=8&theme=dark" />
 </p>
 
-### 🎨 Frameworks & Libraries
+### Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,jquery&perline=8&theme=dark" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai,mysql,mongodb&perline=8&theme=dark" />
 </p>
@@ -86,7 +86,7 @@ email: info.kavinduchamith@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -99,7 +99,7 @@ email: info.kavinduchamith@gmail.com
 
 <div align="center">
 
-### 🔥 Streak Stats
+### Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kavindu-Chamith&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://git.io/streak-stats)
 
@@ -107,17 +107,7 @@ email: info.kavinduchamith@gmail.com
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kavindu-Chamith&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -127,37 +117,8 @@ email: info.kavinduchamith@gmail.com
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kavindu-Chamith/Kavindu-Chamith/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kavindu-Chamith/Kavindu-Chamith/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kavindu-Chamith/Kavindu-Chamith/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Kavindu-Chamith&repo=My-Portfolio-Web&theme=tokyonight&border_radius=15&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/Kavindu-Chamith/My-Portfolio-Web)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:58a6ff,100:0d1117&height=120&section=footer" />
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."*
-
-**Made with ❤️ by [Kavindu Chamith](https://github.com/Kavindu-Chamith)**
 
 </div>
