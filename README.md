@@ -10,12 +10,12 @@
 
 <br/>
 
-<!-- Profile Views & Followers
+<!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=kavindu-chamith&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/Kavindu-Chamith?tab=followers">
   <img src="https://img.shields.io/github/followers/Kavindu-Chamith?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Followers" />
-</a> -->
+</a>
 
 </div>
 
@@ -90,23 +90,13 @@ email: info.kavinduchamith@gmail.com
 
 ---
 
-## GitHub Stats
+## GitHub Stats & Activity Summary
 
 <div align="center">
 
-### Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kavindu-Chamith&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-[![Kavindu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavindu-Chamith&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kavindu-Chamith&theme=tokyonight" alt="GitHub Stats" />
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavindu-Chamith&theme=tokyonight" alt="GitHub Profile Summary" />
 
 </div>
 
