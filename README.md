@@ -10,13 +10,6 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=kavindu-chamith&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/Kavindu-Chamith?tab=followers">
-  <img src="https://img.shields.io/github/followers/Kavindu-Chamith?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Followers" />
-</a>
-
 </div>
 
 ---
@@ -85,25 +78,5 @@ email: info.kavinduchamith@gmail.com
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai,mysql,mongodb&perline=8&theme=dark" />
 </p>
-
-</div>
-
----
-
-## GitHub Stats & Activity Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kavindu-Chamith&theme=tokyonight" alt="GitHub Stats" />
-<br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavindu-Chamith&theme=tokyonight" alt="GitHub Profile Summary" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:58a6ff,100:0d1117&height=120&section=footer" />
 
 </div>
