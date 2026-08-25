@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -39,7 +38,6 @@ hobbies:
 email: info.kavinduchamith@gmail.com
 ```
 
----
 
 ## Connect with Me
 
@@ -53,7 +51,6 @@ email: info.kavinduchamith@gmail.com
 
 </div>
 
----
 
 ## Languages & Tools
 
