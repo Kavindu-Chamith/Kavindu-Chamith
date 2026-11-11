@@ -6,8 +6,6 @@
 
 **Building useful web and mobile products, learning by shipping, and exploring the world of data.**
 
-<sub><a href="#about-me">ABOUT</a> &nbsp; / &nbsp; <a href="#connect-with-me">CONNECT</a> &nbsp; / &nbsp; <a href="#featured-projects">PROJECTS</a> &nbsp; / &nbsp; <a href="#tech-i-work-with">TECH STACK</a></sub>
-
 </div>
 
 <br />
@@ -70,18 +68,29 @@ I'm a Software Engineering undergraduate at **Sabaragamuwa University of Sri Lan
     </td>
     <td width="50%" align="center">
       <h3>Web &amp; Mobile</h3>
-      <p><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,bootstrap,tailwind&perline=8&theme=dark" alt="React, Next.js, Node.js, HTML, CSS, Bootstrap, Tailwind CSS" /></p>
+      <p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind&perline=8&theme=dark" alt="React, Next.js, Node.js, HTML, CSS, Bootstrap, Tailwind CSS" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3>Backend &amp; Databases</h3>
-      <p><img src="https://skillicons.dev/icons?i=php,nodejs,mysql,postgres,supabase,firebase&perline=8&theme=dark" alt="PHP, Node.js, MySQL, PostgreSQL, Supabase, Firebase" /></p>
+      <p><img src="https://skillicons.dev/icons?i=php,nodejs,mysql,postgres,supabase,firebase&perline=8&theme=dark" alt="PHP, MySQL, PostgreSQL, Supabase, Firebase" /></p>
     </td>
     <td width="50%" align="center">
       <h3>Tools</h3>
       <p><img src="https://skillicons.dev/icons?i=git,github,postman,docker,figma&perline=8&theme=dark" alt="Git, GitHub, Postman, Docker, Figma" /></p>
       <p><sub>Also working with Playwright for browser testing.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>Data Engineering</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Apache_NiFi-017081?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache NiFi" />
+        <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&amp;logo=apacheairflow&amp;logoColor=white" alt="Apache Airflow" />
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka" />
+        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white" alt="Apache Spark" />
+      </p>
     </td>
   </tr>
 </table>
