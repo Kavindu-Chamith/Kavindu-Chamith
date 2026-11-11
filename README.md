@@ -6,11 +6,7 @@
 
 **Building useful web and mobile products, learning by shipping, and exploring the world of data.**
 
-[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-0D1425?style=for-the-badge&logo=googlechrome&logoColor=5EEAD4)](https://kavindu-chamith.github.io/My-Portfolio-Web)
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0D1425?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/kavindu-chamit03)
-[![Email](https://img.shields.io/badge/Say_hello-0D1425?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:info.kavinduchamith@gmail.com)
-
-<sub><a href="#about-me">ABOUT</a> &nbsp; / &nbsp; <a href="#featured-projects">PROJECTS</a> &nbsp; / &nbsp; <a href="#tech-i-work-with">TECH STACK</a></sub>
+<sub><a href="#about-me">ABOUT</a> &nbsp; / &nbsp; <a href="#connect-with-me">CONNECT</a> &nbsp; / &nbsp; <a href="#featured-projects">PROJECTS</a> &nbsp; / &nbsp; <a href="#tech-i-work-with">TECH STACK</a></sub>
 
 </div>
 
@@ -19,6 +15,18 @@
 ## About me
 
 I'm a Software Engineering undergraduate at **Sabaragamuwa University of Sri Lanka**, with hands-on experience building full-stack web applications and mobile interfaces. I'm currently expanding my skills through a **Data Engineering Training Programme at ZuuCrew.ai**.
+
+<br />
+
+## Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-chamit03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kavindu-chamith.github.io/My-Portfolio-Web)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.kavinduchamith@gmail.com)
+
+</div>
 
 <br />
 
