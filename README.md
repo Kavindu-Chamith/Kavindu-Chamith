@@ -1,79 +1,74 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:1f6feb&height=200&section=header&text=Kavindu%20Chamith&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=20&descColor=8b949e" />
+# Hey, I'm Kavindu Chamith 👋
 
-<!-- Animated Typing Text -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Kavindu+Chamith;Data+Engineer+%7C+Software+Developer;Building+Creative+Digital+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-</a>
+### Software Engineering Undergraduate · Full-Stack & Mobile Developer · Aspiring Data Engineer
 
-<br/>
+Building useful web and mobile products, learning by shipping, and exploring the world of data.
 
-</div>
-
-
-## About Me
-
-```yaml
-name: Kavindu Chamith
-located_in: Sri Lanka
-current_job: Software Developer & Graphic Designer
-
-fields_of_interests:
-  - Data Engineering
-  - Machine Learning
-  - Full Stack Web Development
-  - Graphic Design
-
-currently_learning:
-  - Data Engineering
-  - Next.js
-
-hobbies:
-  - Coding
-  - Designing
-  - Learning New Tech
-
-email: info.kavinduchamith@gmail.com
-```
-
-
-## Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-chamit03)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kavindu_chamith_?igsh=MTd5c3k3dTlwOWpmbw%3D%3D&utm_source=qr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kavindu-chamith.github.io/My-Portfolio-Web)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavindu-Chamith)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.kavinduchamith@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kavindu-chamith.github.io/My-Portfolio-Web)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-chamit03)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.kavinduchamith@gmail.com)
 
 </div>
 
+---
 
-## Languages & Tools
+## About me
+
+I'm a Software Engineering undergraduate at **Sabaragamuwa University of Sri Lanka**, with hands-on experience building full-stack web applications and mobile interfaces. I'm currently expanding my skills through a **Data Engineering Training Programme at ZuuCrew.ai**.
+
+- 🎓 Studying Software Engineering (BSc Hons, 2024–present)
+- 💻 Building with React, Next.js, TypeScript, Node.js, and SQL databases
+- 📱 Exploring mobile development with React Native and Expo
+- 🌱 Growing my skills in data engineering and modern application development
+- 🎨 Bringing a designer's eye to clear, thoughtful user experiences
+
+## Featured projects
+
+### [Infobash Cricket Tournament](https://infobash2026.vercel.app)
+Tournament management platform for team registration, match fixtures, live scoring, results, and event administration.
+
+`Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase`
+
+### BloodLink · In progress
+Multi-platform blood donation management system. Working on donor authentication flows and an admin web interface, with interface designs created in Figma.
+
+`React Native` · `TypeScript` · `Node.js` · `PostgreSQL` · `Firebase`
+
+### TicketHub
+Online ticket booking platform built as a group project. Contributed account flows, profile management, shared pages, navigation, and Google sign-in.
+
+`PHP` · `MySQL` · `JavaScript` · `Bootstrap` · `HTML` · `CSS`
+
+## Tech I work with
 
 <div align="center">
 
-### Programming Languages
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,c&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php&perline=8&theme=dark" />
 </p>
 
-### Frameworks & Libraries
+### Web & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,bootstrap,tailwind&perline=8&theme=dark" />
 </p>
 
-### Data Engineering & ML
+### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,kafka,postgres,mongodb,redis&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,postgres,supabase,firebase&perline=8&theme=dark" />
 </p>
 
-### Tools & Platforms
+### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai,mysql,mongodb&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,playwright,docker,figma&perline=8&theme=dark" />
 </p>
+
+</div>
+
+<div align="center">
+
+*Always learning. Always building.*
 
 </div>
