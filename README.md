@@ -78,18 +78,17 @@ I'm a Software Engineering undergraduate at **Sabaragamuwa University of Sri Lan
     </td>
     <td width="50%" align="center">
       <h3>Tools</h3>
-      <p><img src="https://skillicons.dev/icons?i=git,github,postman,docker,figma&perline=8&theme=dark" alt="Git, GitHub, Postman, Docker, Figma" /></p>
-      <p><sub>Also working with Playwright for browser testing.</sub></p>
+      <p><img src="https://skillicons.dev/icons?i=git,github,postman,docker,figma&perline=8&theme=dark" alt="Git, GitHub, Postman, Docker, Figma" />&nbsp; <img src="./assets/icons/playwright.svg" width="48" height="48" alt="Playwright" title="Playwright" /></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <h3>Data Engineering</h3>
       <p>
-        <img src="https://img.shields.io/badge/Apache_NiFi-017081?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache NiFi" />
-        <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&amp;logo=apacheairflow&amp;logoColor=white" alt="Apache Airflow" />
-        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka" />
-        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white" alt="Apache Spark" />
+        <img src="./assets/icons/nifi.svg" width="48" height="48" alt="Apache NiFi" title="Apache NiFi" />&nbsp;
+        <img src="./assets/icons/airflow.svg" width="48" height="48" alt="Apache Airflow" title="Apache Airflow" />&nbsp;
+        <img src="./assets/icons/kafka.svg" width="48" height="48" alt="Apache Kafka" title="Apache Kafka" />&nbsp;
+        <img src="./assets/icons/spark.svg" width="48" height="48" alt="Apache Spark" title="Apache Spark" />
       </p>
     </td>
   </tr>
