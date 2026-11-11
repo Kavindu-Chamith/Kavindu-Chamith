@@ -20,21 +20,6 @@
 
 I'm a Software Engineering undergraduate at **Sabaragamuwa University of Sri Lanka**, with hands-on experience building full-stack web applications and mobile interfaces. I'm currently expanding my skills through a **Data Engineering Training Programme at ZuuCrew.ai**.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Learning with purpose</h3>
-      <p>Studying <strong>Software Engineering</strong><br />BSc Hons · 2024–present</p>
-      <p>Growing my skills in <strong>data engineering</strong> and modern application development.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Building with intention</h3>
-      <p>React, Next.js, TypeScript, Node.js, and SQL databases. Exploring mobile development with <strong>React Native &amp; Expo</strong>.</p>
-      <p>Bringing a designer's eye to clear, thoughtful user experiences.</p>
-    </td>
-  </tr>
-</table>
-
 <br />
 
 ## Featured projects
