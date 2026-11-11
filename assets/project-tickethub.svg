@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" fill="none" role="img" aria-labelledby="title">
+  <title id="title">TicketHub — online ticket booking</title>
+  <defs><linearGradient id="bg" x2="640" y2="200" gradientUnits="userSpaceOnUse"><stop stop-color="#241D40"/><stop offset="1" stop-color="#121428"/></linearGradient></defs>
+  <rect width="640" height="200" rx="14" fill="url(#bg)"/>
+  <circle cx="548" cy="103" r="115" stroke="#A78BFA" stroke-opacity="0.15"/>
+  <circle cx="548" cy="103" r="82" stroke="#A78BFA" stroke-opacity="0.12"/>
+  <path d="M0 198H640" stroke="#A78BFA" stroke-width="4"/>
+  <text x="30" y="42" fill="#C4B5FD" font-family="Consolas, monospace" font-size="13" letter-spacing="3">03 / GROUP PROJECT</text>
+  <text x="28" y="108" fill="#F1F5F9" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">TicketHub</text>
+  <text x="30" y="148" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="19">The next experience starts here.</text>
+  <g transform="rotate(-15 527 105)" stroke="#C4B5FD" stroke-width="4" stroke-linejoin="round">
+    <path d="M480 72H574V91A14 14 0 0 0 574 119V138H480V119A14 14 0 0 0 480 91V72Z"/>
+    <path d="M548 76V134" stroke-dasharray="5 7"/>
+    <path d="M500 96H530M500 113H521" stroke-linecap="round"/>
+  </g>
+</svg>

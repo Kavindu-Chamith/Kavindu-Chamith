@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Infobash — tournament management</title>
+  <defs><linearGradient id="bg" x2="640" y2="200" gradientUnits="userSpaceOnUse"><stop stop-color="#102438"/><stop offset="1" stop-color="#0C1424"/></linearGradient></defs>
+  <rect width="640" height="200" rx="14" fill="url(#bg)"/>
+  <circle cx="548" cy="103" r="115" stroke="#38BDF8" stroke-opacity="0.15"/>
+  <circle cx="548" cy="103" r="82" stroke="#38BDF8" stroke-opacity="0.12"/>
+  <path d="M0 198H640" stroke="#38BDF8" stroke-width="4"/>
+  <text x="30" y="42" fill="#7DD3FC" font-family="Consolas, monospace" font-size="13" letter-spacing="3">01 / WEB APPLICATION</text>
+  <text x="28" y="108" fill="#F1F5F9" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">Infobash</text>
+  <text x="30" y="148" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="19">Every match. Every moment.</text>
+  <g stroke="#7DD3FC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M494 61H552V92C552 130 494 130 494 92V61ZM523 120V146M504 148H542"/>
+    <path d="M494 70H480V85C480 103 495 104 497 104M552 70H566V85C566 103 551 104 549 104"/>
+  </g>
+</svg>

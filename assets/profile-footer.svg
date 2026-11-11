@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="132" viewBox="0 0 1280 132" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Always learning. Always building.</title>
+  <defs><linearGradient id="line" x2="1280" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4"/><stop offset="0.5" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+  <rect width="1280" height="132" rx="18" fill="#0D1425"/>
+  <path d="M32 1H1248" stroke="url(#line)" stroke-width="2"/>
+  <path d="M60 67H330M950 67H1220" stroke="#27354B"/>
+  <circle cx="330" cy="67" r="4" fill="#5EEAD4"/>
+  <circle cx="950" cy="67" r="4" fill="#A78BFA"/>
+  <text x="640" y="75" text-anchor="middle" fill="#CBD5E1" font-family="Consolas, monospace" font-size="24">Always learning. Always building.</text>
+</svg>

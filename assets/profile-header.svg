@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Kavindu Chamith — building at the intersection of code, design, and data</title>
+  <desc id="desc">A dark navy banner with cyan and violet gradients, orbital lines, and connected web, mobile, and data nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1222"/><stop offset="1" stop-color="#11102B"/></linearGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="1216" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4"/><stop offset="0.5" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#6366F1" stop-opacity="0.24"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94A3B8" opacity="0.13"/></pattern>
+    <clipPath id="frame"><rect width="1280" height="440" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="440" fill="url(#bg)"/>
+    <rect width="1280" height="440" fill="url(#grid)"/>
+    <ellipse cx="1040" cy="220" rx="430" ry="360" fill="url(#glow)"/>
+    <path d="M0 439H1280" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M64 59H110" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round"/>
+    <text x="124" y="65" fill="#94A3B8" font-family="Consolas, monospace" font-size="14" letter-spacing="3">CODE / DESIGN / DATA</text>
+    <text x="64" y="143" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="23">Hey there, I'm</text>
+    <text x="60" y="219" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-3">Kavindu Chamith<tspan fill="#5EEAD4">.</tspan></text>
+    <text x="64" y="264" fill="#A5B4FC" font-family="Segoe UI, Arial, sans-serif" font-size="21">Software Engineering Undergraduate</text>
+    <text x="64" y="305" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Full-stack &amp; mobile development · Aspiring data engineer</text>
+    <rect x="64" y="348" width="283" height="36" rx="18" fill="#5EEAD4" fill-opacity="0.07" stroke="#5EEAD4" stroke-opacity="0.25"/>
+    <circle cx="84" cy="366" r="4" fill="#5EEAD4"/>
+    <text x="99" y="372" fill="#B5EDE5" font-family="Consolas, monospace" font-size="13">Always learning. Always building.</text>
+    <g transform="translate(1004 216)">
+      <circle r="157" stroke="#A78BFA" stroke-opacity="0.18"/>
+      <circle r="119" stroke="#A78BFA" stroke-opacity="0.15" stroke-dasharray="4 10"/>
+      <ellipse rx="181" ry="69" transform="rotate(-32)" stroke="#38BDF8" stroke-opacity="0.28"/>
+      <path d="M0 0L-128-88M0 0L139-42M0 0L25 137" stroke="#64748B" stroke-opacity="0.55" stroke-dasharray="4 5"/>
+      <rect x="-52" y="-52" width="104" height="104" rx="26" transform="rotate(-12)" fill="#121D35" stroke="#64748B" stroke-opacity="0.6"/>
+      <path d="M-22-13L-38 0L-22 13M22-13L38 0L22 13M9-24L-9 24" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="-187" y="-110" width="118" height="44" rx="13" fill="#102435" stroke="#38BDF8" stroke-opacity="0.5"/>
+      <text x="-128" y="-82" text-anchor="middle" fill="#7DD3FC" font-family="Consolas, monospace" font-size="15">&lt; WEB /&gt;</text>
+      <rect x="80" y="-64" width="118" height="44" rx="13" fill="#1D1937" stroke="#A78BFA" stroke-opacity="0.5"/>
+      <text x="139" y="-36" text-anchor="middle" fill="#C4B5FD" font-family="Consolas, monospace" font-size="15">MOBILE</text>
+      <rect x="-34" y="115" width="118" height="44" rx="13" fill="#102C30" stroke="#5EEAD4" stroke-opacity="0.5"/>
+      <text x="25" y="143" text-anchor="middle" fill="#99F6E4" font-family="Consolas, monospace" font-size="15">{ DATA }</text>
+      <circle cx="-58" cy="-146" r="5" fill="#A78BFA"/>
+      <circle cx="-150" cy="46" r="4" fill="#38BDF8"/>
+      <circle cx="132" cy="85" r="5" fill="#5EEAD4"/>
+    </g>
+  </g>
+</svg>

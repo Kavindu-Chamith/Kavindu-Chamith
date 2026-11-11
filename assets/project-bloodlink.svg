@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" fill="none" role="img" aria-labelledby="title">
+  <title id="title">BloodLink — blood donation management</title>
+  <defs><linearGradient id="bg" x2="640" y2="200" gradientUnits="userSpaceOnUse"><stop stop-color="#30192C"/><stop offset="1" stop-color="#151326"/></linearGradient></defs>
+  <rect width="640" height="200" rx="14" fill="url(#bg)"/>
+  <circle cx="548" cy="103" r="115" stroke="#FB7185" stroke-opacity="0.15"/>
+  <circle cx="548" cy="103" r="82" stroke="#FB7185" stroke-opacity="0.12"/>
+  <path d="M0 198H640" stroke="#FB7185" stroke-width="4"/>
+  <text x="30" y="42" fill="#FDA4AF" font-family="Consolas, monospace" font-size="13" letter-spacing="3">02 / MOBILE + WEB</text>
+  <text x="28" y="108" fill="#F1F5F9" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">BloodLink</text>
+  <text x="30" y="148" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="19">Connecting donors. Supporting care.</text>
+  <path d="M526 51C512 73 490 94 490 114A36 36 0 0 0 562 114C562 94 540 73 526 51Z" stroke="#FDA4AF" stroke-width="4"/>
+  <path d="M480 112H507L517 96L531 126L541 112H574" stroke="#FB7185" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
